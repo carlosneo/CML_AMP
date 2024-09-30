@@ -9,7 +9,7 @@ entries:
         Long description of what the AMP does.
     long_description_html: |
         Long description of what the AMP does.
-    image_path: >-
+    image_path: 
       "https://github.com/carlosneo/CML_AMP/blob/199a838692012f05d398525b7bb8ac3a22c06dad/assets/images/sparkml.png"
     tags:
       - Sample
