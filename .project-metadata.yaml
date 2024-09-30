@@ -12,7 +12,7 @@ environment_variables:
     required: false
 
 runtimes:
-  - editor: Jupyter ## Other acceptable values are determined by the runtimes available in your CML environment
+  - editor: JupyterLab ## Other acceptable values are determined by the runtimes available in your CML environment
     kernel: Python 3.10 ## Same here, check your runtimes (custom runtimes can be added as well)
     edition: Standard ## Particularly relevant if using GPUs, Nvidia GPU
 
