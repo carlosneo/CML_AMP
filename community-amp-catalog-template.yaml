@@ -1,8 +1,8 @@
-name: Community
+name: AMPS Abertos
 
 entries:
   - title: NOME DO AMP - JGUIMARAES
-    label: Github-repo-name-here
+    label: projeto-amp
     short_description: |
         Short description of what the AMP does.
     long_description: |
