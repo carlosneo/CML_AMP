@@ -17,7 +17,7 @@ entries:
       - Used
       - As
       - Identifiers
-    git_url: 'https://github.com/carlosneo/CML_AMP/tree/main'
+    git_url: 'https://github.com/carlosneo/CML_AMP'
     is_prototype: true
     is_community: true
     is_new: true
